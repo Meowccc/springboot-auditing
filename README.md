@@ -15,7 +15,7 @@
 ### Curl Commands
 
 > Using the SecurityContextHolder to set the mock user <br>
-> 如果沒有使用enum converter factory 則會使用enum value去轉換 <br>
+> 如果沒有使用enum converter factory 則會使用enum name去轉換 <br>
 >```shell
 >curl -X GET http://localhost:8081/api/events/login
 >```
