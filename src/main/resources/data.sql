@@ -1,0 +1,1 @@
+insert into event_log (event, service_code) values ('login', 22);
